@@ -484,6 +484,7 @@ align-items: center;
 .banner {
   overflow: hidden;
   background: #0F0F0F;
+  margin-bottom: 120px;
 }
 
 
@@ -732,12 +733,34 @@ align-items: center;
   margin-right: 6px;
 }
 
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 480px) {
+/* Styles */
 .footer__links{
   display: flex;
   flex-direction: column;
   margin-top: 10px;
   padding-left:5px;
 }
+}
+
+/* Desktops and laptops ----------- */
+@media only screen 
+and (min-width : 1224px)
+and (min-width : 1824px) {
+/* Styles */
+.footer__links{
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+  padding-left:5px;
+}
+}
+
 
 .footer__links a {
   font-size: 16px;
@@ -745,7 +768,7 @@ align-items: center;
   color: #adadad;
   font-weight: 500;
   line-height: 26px;
-  margin: 0 0 15px 0;
+  margin: 0 20px 15px 0;
 }
 .footer__copyright {
   border-top: 1px solid rgba(255, 255, 255, 0.1);
