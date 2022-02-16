@@ -395,6 +395,13 @@
     <script src="js/bootstrap.min.js"></script>
     <script src="js/faq.js"></script>
     <script src="js/main.js"></script>
+
+    <script>
+        //console.log(window.location.host)
+        // Don't force https when serving the website locally
+        if ((window.location.host) && (window.location.protocol != "https:"))
+            window.location.protocol = "https";
+    </script>
 </body>
 
 </html>
