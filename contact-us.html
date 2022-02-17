@@ -47,28 +47,46 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title center-title">
-                        <h2>HelpDesk</h2>
+                        <h2>Contact Us</h2>
                     </div>
                 </div>
             </div>
 
             <div class="faq-container" style="margin-bottom: 100px;">
                 <div class="faq-label">
-                  <div class="faq-label-text">
-                    For any queries and support with our app and platform, we are here to help you out. 
-                    Connect directly to us by dropping us an email to <a href="support@makemywin.com">support@makemywin.com</a> and our team would
-                    respond back promptly via call, message or email. 
-                    You can find more information from our FAQ section (below) that exclusively covers all
-                     topics related to gameplay, deposits, withdrawals and other key elements.
+                  <div class="faq-label-text" style="width: 100%">
+                      <div class="contactUsSection">
+                        <div class="contactUsForm">
+                            <form onsubmit="onFormSubmit()">
+                                <div class="form-group">
+                                    <label for="fullName">You Name</label>
+                                    <input type="text" class="form-control" id="fullName" aria-describedby="emailHelp" placeholder="Enter Name">
+                                </div>
+                                <div class="form-group">
+                                  <label for="email">Email address</label>
+                                  <input type="email" class="form-control" id="email" aria-describedby="emailHelp" placeholder="Enter email">
+                                </div>
+                                <div class="form-group">
+                                  <label for="message">Message</label>
+                                  <textarea class="form-control" id="message" placeholder="Message" rows="3"></textarea>
+                                </div>
+                                <button type="submit" class="btn btn-primary" style="background-color: #32BC41; border-color: #32BC41;">Submit</button>
+                            </form>
+                        </div>
 
-                    <br/>
-                    <br/>
-                    <br/>
+                        <div class="contactUsInfo">
+                            <b>Contact Info</b><br>
+                            MakeMyWin<br>
+                            BattleNet Private Limited<br>
+                            904-Block I, My Home Avatar, Hyderabad<br>
+                            Email - <a href="mailto:info@makemywin.com">info@makemywin.com</a><br>
+                            Contact us @ 8431732501
+                        </div>
+                      </div>
+                    
 
-                    <a href="faq.html">Frequently Asked Questions (FAQs)</a>
-
+                    
                   </div>
-            
                 </div>
               </div>
         </div>
@@ -121,6 +139,12 @@
     <script src="js/bootstrap.min.js"></script>
     <script src="js/faq.js"></script>
     <script src="js/main.js"></script>
+
+    <script>
+        function onFormSubmit(){
+            console.log("here")
+        }
+    </script>
 </body>
 
 </html>

@@ -743,6 +743,11 @@ and (max-device-width : 480px) {
   margin-top: 10px;
   padding-left:5px;
 }
+
+.contactUsRow {
+  display: flex;
+  flex-direction: column;
+}
 }
 
 /* Desktops and laptops ----------- */
@@ -759,6 +764,27 @@ and (min-width : 1824px) {
   margin-top: 10px;
   padding-left:5px;
 }
+}
+
+.contactUsForm {
+  width: 300px;
+}
+
+.contactUsSection {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+@media screen and ( max-width: 500px ) { 
+  .contactUsSection {
+    flex-direction: column;
+  }
+
+  .contactUsInfo {
+    margin-top: 30px;
+  }
 }
 
 
