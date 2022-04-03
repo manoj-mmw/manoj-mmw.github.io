@@ -416,37 +416,23 @@
 
 			if(mobileNumber.match(/^(\+\d{1,3}[- ]?)?\d{10}$/) && ! (mobileNumber.match(/0{5,}/)) ) {
 
-				// const apiUrl = 'https://ff77-3-111-140-16.ngrok.io/auth/v1/auth/optInForInvitation/';
-				// const body = {
-				// 	mobileNumber
-				// }
+				const apiUrl = 'https://ff77-3-111-140-16.ngrok.io/auth/v1/auth/optInForInvitation/';
+				const body = {
+					mobileNumber
+				}
 
-				// var xhttp = new XMLHttpRequest();
-				// xhttp.onreadystatechange = function() {
-				// 	console.log(this.readyState);
-				// 	if (this.readyState == 4 && this.status == 200) {
-				// 		console.log(this.responseText);
-				// 	}
-				// };
-                // xhttp.withCredentials = true;
-				// xhttp.open("POST", apiUrl, true);
-				// xhttp.setRequestHeader("Content-type", "application/json");
-				// xhttp.send(JSON.stringify(body));
+				var xhttp = new XMLHttpRequest();
+				xhttp.onreadystatechange = function() {
+					console.log(this.readyState);
+					if (this.readyState == 4 && this.status == 200) {
+						console.log(this.responseText);
+					}
+				};
+				xhttp.open("POST", apiUrl, true);
+				xhttp.setRequestHeader("Content-type", "application/json");
+				xhttp.send(JSON.stringify(body));
 
-                fetch("https://ff77-3-111-140-16.ngrok.io/auth/v1/auth/optInForInvitation/", {
-                    "headers": {
-                        "content-type": "application/json",
-                        "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"99\", \"Google Chrome\";v=\"99\"",
-                        "sec-ch-ua-mobile": "?0",
-                        "sec-ch-ua-platform": "\"macOS\""
-                    },
-                    "referrer": "https://www.makemywin.com/",
-                    "referrerPolicy": "strict-origin-when-cross-origin",
-                    "body": "{\"mobileNumber\":\"9581129423\"}",
-                    "method": "POST",
-                    "mode": "cors",
-                    "credentials": "omit"
-                });
+           
 			}
 		});
     </script>
