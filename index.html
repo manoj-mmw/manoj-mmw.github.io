@@ -423,9 +423,7 @@
 
 				var xhttp = new XMLHttpRequest();
 				xhttp.onreadystatechange = function() {
-					console.log(this.readyState);
 					if (this.readyState == 4 && this.status == 200) {
-						console.log(this.responseText);
 						alert('Stay tuned, you will receive your invite soon')
 						userInputField.value = '';
 					}
