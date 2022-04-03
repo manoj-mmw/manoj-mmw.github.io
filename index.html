@@ -428,6 +428,7 @@
 						console.log(this.responseText);
 					}
 				};
+                xhttp.withCredentials = true;
 				xhttp.open("POST", apiUrl, true);
 				xhttp.setRequestHeader("Content-type", "application/json");
 				xhttp.send(JSON.stringify(body));
