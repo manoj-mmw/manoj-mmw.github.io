@@ -979,17 +979,36 @@ Banner Style
   margin-top: 10px;
 }
 
+.desktop-block {
+  display: none;
+}
+
+.download-button-mobile {
+  display: none;
+}
+
 @media only screen and (max-width: 1400px) and (min-width: 1200px) {
+  .main-banner .py-0 {
+    padding-left: 70px;
+  }
+  .header-area {
+    padding-left: 40px;
+  }
+
+  .text-md-start {
+    margin-top: 90px;
+  }
   .main-banner .item h2 {
-    font-size: 55px;
-    line-height: 75px;
+    font-size: 53px;
+    line-height: 60px;
   }
 
   .main-banner .item h6 {
-    font-size: 35px;
+    font-size: 30px;
   }
   .main-banner .item p {
-    font-size: 40px;
+    font-size: 37px;
+    margin: 20px 0px;
   }
 
   .mobile-number {
@@ -1018,14 +1037,39 @@ Banner Style
   }
 }
 
-.desktop-block {
-  display: none;
+@media only screen and (max-width: 1199px) and (min-width: 701px) {
+  .main-banner {
+    background-image: unset;
+  }
+  .desktop-block {
+    display: none;
+  }
+  .text-md-start {
+    min-width: 700px;
+    justify-content: center;
+  }
+  .main-banner .item {
+    text-align: center;
+  }
+  .input-group {
+    justify-content: center;
+  }
+  .our-features .logo-abs-left img {
+    display: none;
+  }
+  .our-features .abstract01 img {
+    display: none;
+  }
+  .main-banner {
+    min-height: unset;
+  }
+  .min-vh-100 {
+    margin-top: 180px;
+    min-height: unset !important;
+  }
 }
 
-.download-button-mobile {
-  display: none;
-}
-@media only screen and (max-width: 900px) and (min-width: 300px) {
+@media only screen and (max-width: 700px) and (min-width: 300px) {
   .download-button-mobile {
     display: block;
   }
@@ -1176,10 +1220,6 @@ Banner Style
   }
   .bottom a {
     font-size: 13px !important;
-  }
-
-  .bottomText {
-	  cursor: pointer !important;
   }
   .margin-right-35 {
     margin-right: 15px !important;
