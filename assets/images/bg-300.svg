@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="375px" height="812px" viewBox="0 0 375 812" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Artboard</title>
+    <defs>
+        <radialGradient cx="74.1889766%" cy="60.0311605%" fx="74.1889766%" fy="60.0311605%" r="26.2707361%" gradientTransform="translate(0.741890,0.600312),scale(1.000000,0.461823),rotate(147.118067),translate(-0.741890,-0.600312)" id="radialGradient-1">
+            <stop stop-color="#000000" offset="0%"></stop>
+            <stop stop-color="#0F0F0F" offset="100%"></stop>
+        </radialGradient>
+        <rect id="path-2" x="0" y="0" width="829" height="467"></rect>
+        <polygon id="path-4" points="21.5885417 0 10.7942708 332.088889 0 0"></polygon>
+        <radialGradient cx="85.7221395%" cy="99.999978%" fx="85.7221395%" fy="99.999978%" r="1574.32819%" gradientTransform="translate(0.857221,1.000000),scale(1.000000,0.065007),rotate(180.000000),translate(-0.857221,-1.000000)" id="radialGradient-6">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </radialGradient>
+        <polygon id="path-7" points="22.3417544 0 83.7635417 332.088889 0 0"></polygon>
+        <radialGradient cx="109.446354%" cy="99.9999778%" fx="109.446354%" fy="99.9999778%" r="416.314902%" gradientTransform="translate(1.094464,1.000000),scale(1.000000,0.250339),rotate(180.000000),translate(-1.094464,-1.000000)" id="radialGradient-9">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </radialGradient>
+        <polygon id="path-10" points="24.0436281 0 160.61875 332.088889 0 0"></polygon>
+        <radialGradient cx="105.125106%" cy="99.9999771%" fx="105.125106%" fy="99.9999771%" r="225.870626%" gradientTransform="translate(1.051251,1.000000),scale(1.000000,0.476243),rotate(180.000000),translate(-1.051251,-1.000000)" id="radialGradient-12">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </radialGradient>
+        <polygon id="path-13" points="27.4222083 0 246.972917 332.088889 0 0"></polygon>
+        <radialGradient cx="103.576901%" cy="99.9999756%" fx="103.576901%" fy="99.9999756%" r="157.638852%" gradientTransform="translate(1.035769,1.000000),scale(1.000000,0.725881),rotate(180.000000),translate(-1.035769,-1.000000)" id="radialGradient-15">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </radialGradient>
+        <polygon id="path-16" points="33.2673405 0 349.302604 332.088889 0 0"></polygon>
+        <radialGradient cx="102.80001%" cy="99.9999733%" fx="102.80001%" fy="99.9999733%" r="125.385893%" gradientTransform="translate(1.028000,1.000000),scale(0.984164,1.000000),rotate(180.000000),translate(-1.028000,-1.000000)" id="radialGradient-18">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </radialGradient>
+        <polygon id="path-19" points="43.5519633 0 479.697396 332.088889 0 0"></polygon>
+        <radialGradient cx="102.347906%" cy="99.9999697%" fx="102.347906%" fy="99.9999697%" r="142.520543%" gradientTransform="translate(1.023479,1.000000),scale(0.726031,1.000000),rotate(180.000000),translate(-1.023479,-1.000000)" id="radialGradient-21">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </radialGradient>
+        <polygon id="path-22" points="63.0392176 0 661.904687 332.088889 0 0"></polygon>
+        <radialGradient cx="102.065302%" cy="99.9999638%" fx="102.065302%" fy="99.9999638%" r="169.910131%" gradientTransform="translate(1.020653,1.000000),scale(0.535686,1.000000),rotate(180.000000),translate(-1.020653,-1.000000)" id="radialGradient-24">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </radialGradient>
+        <polygon id="path-25" points="0 0 747.395312 293.172222 0 32.5518083"></polygon>
+        <radialGradient cx="101.884807%" cy="99.9999538%" fx="101.884807%" fy="99.9999538%" r="216.955423%" gradientTransform="translate(1.018848,1.000000),scale(0.382863,1.000000),rotate(180.000000),translate(-1.018848,-1.000000)" id="radialGradient-27">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </radialGradient>
+        <polygon id="path-28" points="0 0 747.395312 190.691667 0 28.5455411"></polygon>
+        <radialGradient cx="101.773503%" cy="99.9999338%" fx="101.773503%" fy="99.9999338%" r="311.108482%" gradientTransform="translate(1.017735,0.999999),scale(0.251227,1.000000),rotate(180.000000),translate(-1.017735,-0.999999)" id="radialGradient-30">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </radialGradient>
+        <polygon id="path-31" points="0 0 747.395312 99.4537037 0 26.5269309"></polygon>
+        <radialGradient cx="101.714408%" cy="99.9998779%" fx="101.714408%" fy="99.9998779%" r="572.10538%" gradientTransform="translate(1.017144,0.999999),scale(0.132068,1.000000),rotate(180.000000),translate(-1.017144,-0.999999)" id="radialGradient-33">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </radialGradient>
+        <polygon id="path-34" points="0 0 747.395312 12.9724867 0 25.9444444"></polygon>
+        <radialGradient cx="101.699702%" cy="50.0003916%" fx="101.699702%" fy="50.0003916%" r="2157.89036%" gradientTransform="translate(1.016997,0.500004),scale(0.034714,1.000000),rotate(180.000000),translate(-1.016997,-0.500004)" id="radialGradient-36">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </radialGradient>
+        <polygon id="path-37" points="747.395312 0 0 99.4537037 0 72.9262453"></polygon>
+        <radialGradient cx="101.714408%" cy="-0.00012205467%" fx="101.714408%" fy="-0.00012205467%" r="572.109937%" gradientTransform="translate(1.017144,-0.000001),scale(0.132068,1.000000),rotate(180.000000),translate(-1.017144,0.000001)" id="radialGradient-39">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </radialGradient>
+        <polygon id="path-40" points="747.395312 0 0 190.691667 0 162.146047"></polygon>
+        <radialGradient cx="101.773503%" cy="-6.62203018e-05%" fx="101.773503%" fy="-6.62203018e-05%" r="311.1074%" gradientTransform="translate(1.017735,-0.000001),scale(0.251228,1.000000),rotate(180.000000),translate(-1.017735,0.000001)" id="radialGradient-42">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </radialGradient>
+        <polygon id="path-43" points="678.74375 0 75.3632101 236.526852 0 236.526852"></polygon>
+        <radialGradient cx="101.884807%" cy="-4.62164055e-05%" fx="101.884807%" fy="-4.62164055e-05%" r="217.098278%" gradientTransform="translate(1.018848,-0.000000),scale(0.382613,1.000000),rotate(180.000000),translate(-1.018848,0.000000)" id="radialGradient-45">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </radialGradient>
+        <polygon id="path-46" points="471.49375 0 44.9053185 236.526852 0 236.526852"></polygon>
+        <radialGradient cx="102.065302%" cy="-3.61784339e-05%" fx="102.065302%" fy="-3.61784339e-05%" r="169.931401%" gradientTransform="translate(1.020653,-0.000000),scale(0.535619,1.000000),rotate(180.000000),translate(-1.020653,0.000000)" id="radialGradient-48">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </radialGradient>
+        <polygon id="path-49" points="341.530729 0 31.0072886 236.526852 0 236.526852"></polygon>
+        <radialGradient cx="102.347906%" cy="-3.03365053e-05%" fx="102.347906%" fy="-3.03365053e-05%" r="142.467122%" gradientTransform="translate(1.023479,-0.000000),scale(0.726304,1.000000),rotate(180.000000),translate(-1.023479,0.000000)" id="radialGradient-51">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </radialGradient>
+        <polygon id="path-52" points="248.7 0 23.6859647 236.526852 0 236.526852"></polygon>
+        <radialGradient cx="102.80001%" cy="-2.66846603e-05%" fx="102.80001%" fy="-2.66846603e-05%" r="125.342897%" gradientTransform="translate(1.028000,-0.000000),scale(0.984507,1.000000),rotate(180.000000),translate(-1.028000,0.000000)" id="radialGradient-54">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </radialGradient>
+        <polygon id="path-55" points="175.730729 0 19.5122072 236.526852 0 236.526852"></polygon>
+        <radialGradient cx="103.576901%" cy="-2.43527612e-05%" fx="103.576901%" fy="-2.43527612e-05%" r="157.638656%" gradientTransform="translate(1.035769,-0.000000),scale(1.000000,0.725166),rotate(180.000000),translate(-1.035769,0.000000)" id="radialGradient-57">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </radialGradient>
+        <polygon id="path-58" points="114.419271 0 17.1282525 236.526852 0 236.526852"></polygon>
+        <radialGradient cx="105.125106%" cy="-2.29145436e-05%" fx="105.125106%" fy="-2.29145436e-05%" r="225.87041%" gradientTransform="translate(1.051251,-0.000000),scale(1.000000,0.476325),rotate(180.000000),translate(-1.051251,0.000000)" id="radialGradient-60">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </radialGradient>
+        <polygon id="path-61" points="59.584375 0 15.892393 236.526852 0 236.526852"></polygon>
+        <radialGradient cx="109.446354%" cy="-2.21517588e-05%" fx="109.446354%" fy="-2.21517588e-05%" r="416.313543%" gradientTransform="translate(1.094464,-0.000000),scale(1.000000,0.250023),rotate(180.000000),translate(-1.094464,0.000000)" id="radialGradient-63">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </radialGradient>
+        <polygon id="path-64" points="7.771875 0 15.54375 236.526852 0 236.526852"></polygon>
+        <radialGradient cx="85.7221395%" cy="-2.19614809e-05%" fx="85.7221395%" fy="-2.19614809e-05%" r="1574.31565%" gradientTransform="translate(0.857221,-0.000000),scale(1.000000,0.065715),rotate(180.000000),translate(-0.857221,0.000000)" id="radialGradient-66">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </radialGradient>
+        <polygon id="path-67" points="0 0 59.584375 236.526852 43.691456 236.526852"></polygon>
+        <radialGradient cx="9.44642518%" cy="-2.21517588e-05%" fx="9.44642518%" fy="-2.21517588e-05%" r="416.315984%" gradientTransform="translate(0.094464,-0.000000),scale(1.000000,0.250022),rotate(180.000000),translate(-0.094464,0.000000)" id="radialGradient-69">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </radialGradient>
+        <polygon id="path-70" points="0 0 114.419271 236.526852 97.2910183 236.526852"></polygon>
+        <radialGradient cx="5.12511873%" cy="-2.29145436e-05%" fx="5.12511873%" fy="-2.29145436e-05%" r="225.869965%" gradientTransform="translate(0.051251,-0.000000),scale(1.000000,0.476326),rotate(180.000000),translate(-0.051251,0.000000)" id="radialGradient-72">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </radialGradient>
+        <polygon id="path-73" points="0 0 175.730729 236.526852 156.218989 236.526852"></polygon>
+        <radialGradient cx="3.57691016%" cy="-2.43527612e-05%" fx="3.57691016%" fy="-2.43527612e-05%" r="157.638835%" gradientTransform="translate(0.035769,-0.000000),scale(1.000000,0.725167),rotate(180.000000),translate(-0.035769,0.000000)" id="radialGradient-75">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </radialGradient>
+        <polygon id="path-76" points="0 0 248.7 236.526852 225.014035 236.526852"></polygon>
+        <radialGradient cx="2.80000983%" cy="-2.66846603e-05%" fx="2.80000983%" fy="-2.66846603e-05%" r="125.341682%" gradientTransform="translate(0.028000,-0.000000),scale(0.984507,1.000000),rotate(180.000000),translate(-0.028000,0.000000)" id="radialGradient-78">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </radialGradient>
+        <polygon id="path-79" points="0 0 262.084896 181.242159 262.084896 199.339815"></polygon>
+        <radialGradient cx="2.34790589%" cy="-3.03365053e-05%" fx="2.34790589%" fy="-3.03365053e-05%" r="142.675953%" gradientTransform="translate(0.023479,-0.000000),scale(0.725246,1.000000),rotate(180.000000),translate(-0.023479,0.000000)" id="radialGradient-81">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </radialGradient>
+        <polygon id="path-82" points="0 0 262.084896 131.451375 262.084896 145.288889"></polygon>
+        <radialGradient cx="2.0653024%" cy="-3.61784339e-05%" fx="2.0653024%" fy="-3.61784339e-05%" r="169.966934%" gradientTransform="translate(0.020653,-0.000000),scale(0.535519,1.000000),rotate(180.000000),translate(-0.020653,0.000000)" id="radialGradient-84">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </radialGradient>
+        <polygon id="path-85" points="0 0 262.084896 91.4863358 262.084896 102.912963"></polygon>
+        <radialGradient cx="1.88480539%" cy="-4.62164055e-05%" fx="1.88480539%" fy="-4.62164055e-05%" r="216.732111%" gradientTransform="translate(0.018848,-0.000000),scale(0.383264,1.000000),rotate(180.000000),translate(-0.018848,0.000000)" id="radialGradient-87">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </radialGradient>
+        <polygon id="path-88" points="0 0 262.084896 56.9902041 262.084896 67.0231481"></polygon>
+        <radialGradient cx="1.77350164%" cy="-6.62203018e-05%" fx="1.77350164%" fy="-6.62203018e-05%" r="310.398597%" gradientTransform="translate(0.017735,-0.000001),scale(0.251807,1.000000),rotate(180.000000),translate(-0.017735,0.000001)" id="radialGradient-90">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </radialGradient>
+        <polygon id="path-91" points="0 0 262.084896 25.3659122 262.084896 34.5925926"></polygon>
+        <radialGradient cx="1.71440809%" cy="-0.00012205467%" fx="1.71440809%" fy="-0.00012205467%" r="576.766799%" gradientTransform="translate(0.017144,-0.000001),scale(0.130999,1.000000),rotate(180.000000),translate(-0.017144,0.000001)" id="radialGradient-93">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </radialGradient>
+        <polygon id="path-94" points="262.084896 0 262.084896 9.08055556 0 4.54027778"></polygon>
+        <radialGradient cx="1.69970316%" cy="50.0003916%" fx="1.69970316%" fy="50.0003916%" r="2162.06067%" gradientTransform="translate(0.016997,0.500004),scale(0.034647,1.000000),rotate(180.000000),translate(-0.016997,-0.500004)" id="radialGradient-96">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </radialGradient>
+        <polygon id="path-97" points="262.084896 0 262.084896 9.22668043 0 34.5925926"></polygon>
+        <radialGradient cx="1.71440809%" cy="99.9998779%" fx="1.71440809%" fy="99.9998779%" r="576.773106%" gradientTransform="translate(0.017144,0.999999),scale(0.131000,1.000000),rotate(180.000000),translate(-0.017144,-0.999999)" id="radialGradient-99">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </radialGradient>
+        <polygon id="path-100" points="262.084896 0 262.084896 10.0329441 0 67.0231481"></polygon>
+        <radialGradient cx="1.77350164%" cy="99.9999338%" fx="1.77350164%" fy="99.9999338%" r="310.391523%" gradientTransform="translate(0.017735,0.999999),scale(0.251808,1.000000),rotate(180.000000),translate(-0.017735,-0.999999)" id="radialGradient-102">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </radialGradient>
+        <polygon id="path-103" points="262.084896 0 262.084896 11.4266271 0 102.912963"></polygon>
+        <radialGradient cx="1.88480539%" cy="99.9999538%" fx="1.88480539%" fy="99.9999538%" r="216.729038%" gradientTransform="translate(0.018848,1.000000),scale(0.383265,1.000000),rotate(180.000000),translate(-0.018848,-1.000000)" id="radialGradient-105">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </radialGradient>
+        <polygon id="path-106" points="262.084896 0 262.084896 13.8375134 0 145.288889"></polygon>
+        <radialGradient cx="2.0653024%" cy="99.9999638%" fx="2.0653024%" fy="99.9999638%" r="169.962547%" gradientTransform="translate(0.020653,1.000000),scale(0.535519,1.000000),rotate(180.000000),translate(-0.020653,-1.000000)" id="radialGradient-108">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </radialGradient>
+        <polygon id="path-109" points="262.084896 0 262.084896 18.0976558 0 199.339815"></polygon>
+        <radialGradient cx="2.34790589%" cy="99.9999697%" fx="2.34790589%" fy="99.9999697%" r="142.675447%" gradientTransform="translate(0.023479,1.000000),scale(0.725246,1.000000),rotate(180.000000),translate(-0.023479,-1.000000)" id="radialGradient-111">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </radialGradient>
+        <polygon id="path-112" points="262.084896 0 262.084896 26.2331423 0 275.443519"></polygon>
+        <radialGradient cx="2.80000983%" cy="99.9999733%" fx="2.80000983%" fy="99.9999733%" r="125.365659%" gradientTransform="translate(0.028000,1.000000),scale(0.984326,1.000000),rotate(180.000000),translate(-0.028000,-1.000000)" id="radialGradient-114">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </radialGradient>
+        <polygon id="path-115" points="246.972917 0 0 332.088889 219.551176 0"></polygon>
+        <radialGradient cx="3.57691016%" cy="99.9999756%" fx="3.57691016%" fy="99.9999756%" r="157.639485%" gradientTransform="translate(0.035769,1.000000),scale(1.000000,0.725881),rotate(180.000000),translate(-0.035769,-1.000000)" id="radialGradient-117">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </radialGradient>
+        <polygon id="path-118" points="160.61875 0 0 332.088889 136.574675 0"></polygon>
+        <radialGradient cx="5.12511873%" cy="99.9999771%" fx="5.12511873%" fy="99.9999771%" r="225.870421%" gradientTransform="translate(0.051251,1.000000),scale(1.000000,0.476242),rotate(180.000000),translate(-0.051251,-1.000000)" id="radialGradient-120">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </radialGradient>
+        <polygon id="path-121" points="83.7635417 0 0 332.088889 61.4212606 0"></polygon>
+        <radialGradient cx="9.44642518%" cy="99.9999778%" fx="9.44642518%" fy="99.9999778%" r="416.316264%" gradientTransform="translate(0.094464,1.000000),scale(1.000000,0.250338),rotate(180.000000),translate(-0.094464,-1.000000)" id="radialGradient-123">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-Copy" fill="url(#radialGradient-1)" x="0" y="0" width="375" height="812"></rect>
+        <g id="Group-122" transform="translate(187.500000, 406.500000) rotate(90.000000) translate(-187.500000, -406.500000) translate(-227.000000, 173.000000)">
+            <mask id="mask-3" fill="white">
+                <use xlink:href="#path-2"></use>
+            </mask>
+            <g id="Mask"></g>
+            <g mask="url(#mask-3)" id="Group-121" opacity="0.015">
+                <g transform="translate(-149.392708, -95.129630)">
+                    <g id="Group-3" transform="translate(736.601042, 0.000000)">
+                        <mask id="mask-5" fill="white">
+                            <use xlink:href="#path-4"></use>
+                        </mask>
+                        <g id="Clip-2"></g>
+                        <polygon id="Fill-1" fill="url(#radialGradient-6)" mask="url(#mask-5)" points="10.7942708 332.088889 -10.2830648 -316.372029 31.8716065 -316.372029"></polygon>
+                    </g>
+                    <g id="Group-6" transform="translate(663.631771, 0.000000)">
+                        <mask id="mask-8" fill="white">
+                            <use xlink:href="#path-7"></use>
+                        </mask>
+                        <g id="Clip-5"></g>
+                        <polygon id="Fill-4" fill="url(#radialGradient-9)" mask="url(#mask-8)" points="83.7635417 332.088889 -77.176824 -305.974673 -35.1423269 -310.801396"></polygon>
+                    </g>
+                    <g id="Group-9" transform="translate(586.776562, 0.000000)">
+                        <mask id="mask-11" fill="white">
+                            <use xlink:href="#path-10"></use>
+                        </mask>
+                        <g id="Clip-8"></g>
+                        <polygon id="Fill-7" fill="url(#radialGradient-12)" mask="url(#mask-11)" points="160.61875 332.088889 -135.361275 -279.866774 -94.975904 -289.401238"></polygon>
+                    </g>
+                    <g id="Group-12" transform="translate(500.422396, 0.000000)">
+                        <mask id="mask-14" fill="white">
+                            <use xlink:href="#path-13"></use>
+                        </mask>
+                        <g id="Clip-11"></g>
+                        <polygon id="Fill-10" fill="url(#radialGradient-15)" mask="url(#mask-14)" points="246.972917 332.088889 -177.512474 -238.690106 -139.64093 -252.697502"></polygon>
+                    </g>
+                    <g id="Group-15" transform="translate(398.092708, 0.000000)">
+                        <mask id="mask-17" fill="white">
+                            <use xlink:href="#path-16"></use>
+                        </mask>
+                        <g id="Clip-14"></g>
+                        <polygon id="Fill-13" fill="url(#radialGradient-18)" mask="url(#mask-17)" points="349.302604 332.088889 -192.968353 -183.459187 -158.581739 -201.594673"></polygon>
+                    </g>
+                    <g id="Group-18" transform="translate(267.697917, 0.000000)">
+                        <mask id="mask-20" fill="white">
+                            <use xlink:href="#path-19"></use>
+                        </mask>
+                        <g id="Clip-17"></g>
+                        <polygon id="Fill-16" fill="url(#radialGradient-21)" mask="url(#mask-20)" points="479.697396 332.088889 -166.885999 -115.533374 -136.836054 -137.3505"></polygon>
+                    </g>
+                    <g id="Group-21" transform="translate(85.490625, 0.000000)">
+                        <mask id="mask-23" fill="white">
+                            <use xlink:href="#path-22"></use>
+                        </mask>
+                        <g id="Clip-20"></g>
+                        <polygon id="Fill-19" fill="url(#radialGradient-24)" mask="url(#mask-23)" points="661.904687 332.088889 -72.9225271 -36.5863317 -47.9513994 -61.5475675"></polygon>
+                    </g>
+                    <g id="Group-24" transform="translate(0.000000, 38.916667)">
+                        <mask id="mask-26" fill="white">
+                            <use xlink:href="#path-25"></use>
+                        </mask>
+                        <g id="Clip-23"></g>
+                        <polygon id="Fill-22" fill="url(#radialGradient-27)" mask="url(#mask-26)" points="747.395312 293.172222 -57.8123124 12.392136 -38.5252443 -15.1121168"></polygon>
+                    </g>
+                    <g id="Group-27" transform="translate(0.000000, 141.397222)">
+                        <mask id="mask-29" fill="white">
+                            <use xlink:href="#path-28"></use>
+                        </mask>
+                        <g id="Clip-26"></g>
+                        <polygon id="Fill-25" fill="url(#radialGradient-30)" mask="url(#mask-29)" points="747.395312 190.691667 -108.350245 5.03933691 -95.2225059 -24.2951301"></polygon>
+                    </g>
+                    <g id="Group-30" transform="translate(0.000000, 232.635185)">
+                        <mask id="mask-32" fill="white">
+                            <use xlink:href="#path-31"></use>
+                        </mask>
+                        <g id="Clip-29"></g>
+                        <polygon id="Fill-28" fill="url(#radialGradient-33)" mask="url(#mask-32)" points="747.395312 99.4537037 -137.817344 13.079628 -131.171199 -17.4548018"></polygon>
+                    </g>
+                    <g id="Group-33" transform="translate(0.000000, 319.116667)">
+                        <mask id="mask-35" fill="white">
+                            <use xlink:href="#path-34"></use>
+                        </mask>
+                        <g id="Clip-32"></g>
+                        <polygon id="Fill-31" fill="url(#radialGradient-36)" mask="url(#mask-35)" points="747.395312 12.9724867 -145.48759 28.4698694 -145.48759 -2.52542498"></polygon>
+                    </g>
+                    <g id="Group-36" transform="translate(0.000000, 332.088889)">
+                        <mask id="mask-38" fill="white">
+                            <use xlink:href="#path-37"></use>
+                        </mask>
+                        <g id="Clip-35"></g>
+                        <polygon id="Fill-34" fill="url(#radialGradient-39)" mask="url(#mask-38)" points="747.395312 0 -131.171199 116.907978 -137.817344 86.3735482"></polygon>
+                    </g>
+                    <g id="Group-39" transform="translate(0.000000, 332.088889)">
+                        <mask id="mask-41" fill="white">
+                            <use xlink:href="#path-40"></use>
+                        </mask>
+                        <g id="Clip-38"></g>
+                        <polygon id="Fill-37" fill="url(#radialGradient-42)" mask="url(#mask-41)" points="747.395312 0 -95.2225059 214.986864 -108.350245 185.652316"></polygon>
+                    </g>
+                    <g id="Group-42" transform="translate(68.651562, 332.088889)">
+                        <mask id="mask-44" fill="white">
+                            <use xlink:href="#path-43"></use>
+                        </mask>
+                        <g id="Clip-41"></g>
+                        <polygon id="Fill-40" fill="url(#radialGradient-45)" mask="url(#mask-44)" points="678.74375 0 -107.399095 308.170128 -126.691618 280.676018"></polygon>
+                    </g>
+                    <g id="Group-45" transform="translate(275.901562, 332.088889)">
+                        <mask id="mask-47" fill="white">
+                            <use xlink:href="#path-46"></use>
+                        </mask>
+                        <g id="Clip-44"></g>
+                        <polygon id="Fill-43" fill="url(#radialGradient-48)" mask="url(#mask-47)" points="471.49375 0 -238.518227 393.674188 -263.494839 368.710033"></polygon>
+                    </g>
+                    <g id="Group-48" transform="translate(405.864583, 332.088889)">
+                        <mask id="mask-50" fill="white">
+                            <use xlink:href="#path-49"></use>
+                        </mask>
+                        <g id="Clip-47"></g>
+                        <polygon id="Fill-46" fill="url(#radialGradient-51)" mask="url(#mask-50)" points="341.530729 0 -274.829756 469.484387 -304.87127 447.665169"></polygon>
+                    </g>
+                    <g id="Group-51" transform="translate(498.695313, 332.088889)">
+                        <mask id="mask-53" fill="white">
+                            <use xlink:href="#path-52"></use>
+                        </mask>
+                        <g id="Clip-50"></g>
+                        <polygon id="Fill-49" fill="url(#radialGradient-54)" mask="url(#mask-53)" points="248.7 0 -259.055379 533.734192 -293.433261 515.596967"></polygon>
+                    </g>
+                    <g id="Group-54" transform="translate(571.664583, 332.088889)">
+                        <mask id="mask-56" fill="white">
+                            <use xlink:href="#path-55"></use>
+                        </mask>
+                        <g id="Clip-53"></g>
+                        <polygon id="Fill-52" fill="url(#radialGradient-57)" mask="url(#mask-56)" points="175.730729 0 -210.539086 584.841919 -248.376929 570.83318"></polygon>
+                    </g>
+                    <g id="Group-57" transform="translate(632.976042, 332.088889)">
+                        <mask id="mask-59" fill="white">
+                            <use xlink:href="#path-58"></use>
+                        </mask>
+                        <g id="Clip-56"></g>
+                        <polygon id="Fill-55" fill="url(#radialGradient-60)" mask="url(#mask-59)" points="114.419271 0 -141.24409 621.549173 -181.640316 612.013795"></polygon>
+                    </g>
+                    <g id="Group-60" transform="translate(687.810937, 332.088889)">
+                        <mask id="mask-62" fill="white">
+                            <use xlink:href="#path-61"></use>
+                        </mask>
+                        <g id="Clip-59"></g>
+                        <polygon id="Fill-58" fill="url(#radialGradient-63)" mask="url(#mask-62)" points="59.584375 0 -59.1830148 642.951909 -101.168558 638.124723"></polygon>
+                    </g>
+                    <g id="Group-63" transform="translate(739.623437, 332.088889)">
+                        <mask id="mask-65" fill="white">
+                            <use xlink:href="#path-64"></use>
+                        </mask>
+                        <g id="Clip-62"></g>
+                        <polygon id="Fill-61" fill="url(#radialGradient-66)" mask="url(#mask-65)" points="7.771875 0 29.0808511 648.522549 -13.5371011 648.522549"></polygon>
+                    </g>
+                    <g id="Group-66" transform="translate(747.395313, 332.088889)">
+                        <mask id="mask-68" fill="white">
+                            <use xlink:href="#path-67"></use>
+                        </mask>
+                        <g id="Clip-65"></g>
+                        <polygon id="Fill-64" fill="url(#radialGradient-69)" mask="url(#mask-68)" points="0 0 160.752407 638.124723 118.766864 642.951909"></polygon>
+                    </g>
+                    <g id="Group-69" transform="translate(747.395313, 332.088889)">
+                        <mask id="mask-71" fill="white">
+                            <use xlink:href="#path-70"></use>
+                        </mask>
+                        <g id="Clip-68"></g>
+                        <polygon id="Fill-67" fill="url(#radialGradient-72)" mask="url(#mask-71)" points="0 0 296.060113 612.013795 255.66336 621.549173"></polygon>
+                    </g>
+                    <g id="Group-72" transform="translate(747.395313, 332.088889)">
+                        <mask id="mask-74" fill="white">
+                            <use xlink:href="#path-73"></use>
+                        </mask>
+                        <g id="Clip-71"></g>
+                        <polygon id="Fill-70" fill="url(#radialGradient-75)" mask="url(#mask-74)" points="0 0 424.107876 570.83318 386.27097 584.841919"></polygon>
+                    </g>
+                    <g id="Group-75" transform="translate(747.395313, 332.088889)">
+                        <mask id="mask-77" fill="white">
+                            <use xlink:href="#path-76"></use>
+                        </mask>
+                        <g id="Clip-74"></g>
+                        <polygon id="Fill-73" fill="url(#radialGradient-78)" mask="url(#mask-77)" points="0 0 542.133261 515.596967 507.755379 533.734192"></polygon>
+                    </g>
+                    <g id="Group-78" transform="translate(747.395313, 332.088889)">
+                        <mask id="mask-80" fill="white">
+                            <use xlink:href="#path-79"></use>
+                        </mask>
+                        <g id="Clip-77"></g>
+                        <polygon id="Fill-76" fill="url(#radialGradient-81)" mask="url(#mask-80)" points="0 0 646.627681 447.16883 616.576204 468.963856"></polygon>
+                    </g>
+                    <g id="Group-81" transform="translate(747.395313, 332.088889)">
+                        <mask id="mask-83" fill="white">
+                            <use xlink:href="#path-82"></use>
+                        </mask>
+                        <g id="Clip-80"></g>
+                        <polygon id="Fill-79" fill="url(#radialGradient-84)" mask="url(#mask-83)" points="0 0 735.120738 368.707261 710.139635 393.671228"></polygon>
+                    </g>
+                    <g id="Group-84" transform="translate(747.395313, 332.088889)">
+                        <mask id="mask-86" fill="white">
+                            <use xlink:href="#path-85"></use>
+                        </mask>
+                        <g id="Clip-83"></g>
+                        <polygon id="Fill-82" fill="url(#radialGradient-87)" mask="url(#mask-86)" points="0 0 805.512225 281.180584 786.217347 308.72412"></polygon>
+                    </g>
+                    <g id="Group-87" transform="translate(747.395313, 332.088889)">
+                        <mask id="mask-89" fill="white">
+                            <use xlink:href="#path-88"></use>
+                        </mask>
+                        <g id="Clip-86"></g>
+                        <polygon id="Fill-85" fill="url(#radialGradient-90)" mask="url(#mask-89)" points="0 0 856.069243 186.150902 842.93602 215.564231"></polygon>
+                    </g>
+                    <g id="Group-90" transform="translate(747.395313, 332.088889)">
+                        <mask id="mask-92" fill="white">
+                            <use xlink:href="#path-91"></use>
+                        </mask>
+                        <g id="Clip-89"></g>
+                        <polygon id="Fill-88" fill="url(#radialGradient-93)" mask="url(#mask-92)" points="0 0 885.546943 85.7070517 878.898815 116.005864"></polygon>
+                    </g>
+                    <g id="Group-93" transform="translate(747.395313, 327.764815)">
+                        <mask id="mask-95" fill="white">
+                            <use xlink:href="#path-94"></use>
+                        </mask>
+                        <g id="Clip-92"></g>
+                        <polygon id="Fill-91" fill="url(#radialGradient-96)" mask="url(#mask-95)" points="0 4.54027778 893.21956 -10.9335254 893.21956 20.0135529"></polygon>
+                    </g>
+                    <g id="Group-96" transform="translate(747.395313, 297.496296)">
+                        <mask id="mask-98" fill="white">
+                            <use xlink:href="#path-97"></use>
+                        </mask>
+                        <g id="Clip-95"></g>
+                        <polygon id="Fill-94" fill="url(#radialGradient-99)" mask="url(#mask-98)" points="0 34.5925926 878.898815 -81.4137952 885.546943 -51.1149826"></polygon>
+                    </g>
+                    <g id="Group-99" transform="translate(747.395313, 265.065741)">
+                        <mask id="mask-101" fill="white">
+                            <use xlink:href="#path-100"></use>
+                        </mask>
+                        <g id="Clip-98"></g>
+                        <polygon id="Fill-97" fill="url(#radialGradient-102)" mask="url(#mask-101)" points="0 67.0231481 842.93602 -148.54161 856.069243 -119.128282"></polygon>
+                    </g>
+                    <g id="Group-102" transform="translate(747.395313, 229.175926)">
+                        <mask id="mask-104" fill="white">
+                            <use xlink:href="#path-103"></use>
+                        </mask>
+                        <g id="Clip-101"></g>
+                        <polygon id="Fill-100" fill="url(#radialGradient-105)" mask="url(#mask-104)" points="0 102.912963 786.217347 -205.811684 805.512225 -178.268148"></polygon>
+                    </g>
+                    <g id="Group-105" transform="translate(747.395313, 186.800000)">
+                        <mask id="mask-107" fill="white">
+                            <use xlink:href="#path-106"></use>
+                        </mask>
+                        <g id="Clip-104"></g>
+                        <polygon id="Fill-103" fill="url(#radialGradient-108)" mask="url(#mask-107)" points="0 145.288889 710.139635 -248.382339 735.120738 -223.418898"></polygon>
+                    </g>
+                    <g id="Group-108" transform="translate(747.395313, 132.749074)">
+                        <mask id="mask-110" fill="white">
+                            <use xlink:href="#path-109"></use>
+                        </mask>
+                        <g id="Clip-107"></g>
+                        <polygon id="Fill-106" fill="url(#radialGradient-111)" mask="url(#mask-110)" points="0 199.339815 616.576204 -269.624041 646.627681 -247.829015"></polygon>
+                    </g>
+                    <g id="Group-111" transform="translate(747.395313, 56.645370)">
+                        <mask id="mask-113" fill="white">
+                            <use xlink:href="#path-112"></use>
+                        </mask>
+                        <g id="Clip-110"></g>
+                        <polygon id="Fill-109" fill="url(#radialGradient-114)" mask="url(#mask-113)" points="0 275.443519 507.830047 -258.271011 542.212984 -240.134472"></polygon>
+                    </g>
+                    <g id="Group-114" transform="translate(747.395313, 0.000000)">
+                        <mask id="mask-116" fill="white">
+                            <use xlink:href="#path-115"></use>
+                        </mask>
+                        <g id="Clip-113"></g>
+                        <polygon id="Fill-112" fill="url(#radialGradient-117)" mask="url(#mask-116)" points="0 332.088889 386.61467 -252.697502 424.485243 -238.690106"></polygon>
+                    </g>
+                    <g id="Group-117" transform="translate(747.395313, 0.000000)">
+                        <mask id="mask-119" fill="white">
+                            <use xlink:href="#path-118"></use>
+                        </mask>
+                        <g id="Clip-116"></g>
+                        <polygon id="Fill-115" fill="url(#radialGradient-120)" mask="url(#mask-119)" points="0 332.088889 255.593818 -289.401238 295.979582 -279.866774"></polygon>
+                    </g>
+                    <g id="Group-120" transform="translate(747.395313, 0.000000)">
+                        <mask id="mask-122" fill="white">
+                            <use xlink:href="#path-121"></use>
+                        </mask>
+                        <g id="Clip-119"></g>
+                        <polygon id="Fill-118" fill="url(#radialGradient-123)" mask="url(#mask-122)" points="0 332.088889 118.905342 -310.801396 160.939839 -305.974673"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
