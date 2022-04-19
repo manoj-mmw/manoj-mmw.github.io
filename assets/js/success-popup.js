@@ -2,6 +2,9 @@ jQuery(document).ready(function ($) {
   //open popup
   $(".cd-popup-trigger").on("click", function (event) {
     event.preventDefault();
+	dataLayer.push({
+		event: "Submit_Button_Non-Mobile"
+	})
 
     $(".cd-popup").addClass("is-visible");
 

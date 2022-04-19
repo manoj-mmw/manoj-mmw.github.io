@@ -327,7 +327,7 @@
               <div class="title">If you are using a desktop/laptop, enter your phone number to get a download link via
                 sms.
                 <a href="./assets/images/MakeMyWin_v1.0.0.apk">
-                  <button class="download-app" type="submit">
+                  <button class="download-app" type="submit" onclick="downloadNowForAndroidMobile()">
                     Download Now
                     <br /> <span> For Android Mobile</span>
                   </button>
@@ -471,6 +471,12 @@
 			event:"download_cta"
 		})
 	}
+
+	function downloadNowForAndroidMobile() {
+		dataLayer.push({
+			event:"DownloadNow_Mobile"
+		})
+	}
 	$("#inviteForm").submit(function(e) {
 		e.preventDefault();
 		const form = e.target;
@@ -501,6 +507,9 @@
 
 	$("#inviteForm1").submit(function(e) {
 		e.preventDefault();
+		dataLayer.push({
+			event: "Send Now_Non-Mobile"
+		})
 		const form = e.target;
 		const userInputField = form.elements['phone_number_1'];
 		const mobileNumber = userInputField.value;
