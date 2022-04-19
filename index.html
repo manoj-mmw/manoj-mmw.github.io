@@ -222,7 +222,7 @@
   
               <div class="row app-btn-row" style="padding: 5px; --bs-gutter-x: 15px;">
                 <div class="col-6">
-                  <button class="app-btn cd-popup-trigger" onclick="downloadNow()"><i class="fa fa-android" style="margin-left: 6px;" aria-hidden="true"></i>Android<h3>Click to Download</h3></button>
+                  <button class="app-btn cd-popup-trigger" onclick="downloadNowMobile()"><i class="fa fa-android" style="margin-left: 6px;" aria-hidden="true"></i>Android<h3>Click to Download</h3></button>
                 </div>
                 <div class="col-6">
                   <button class="app-btn-disabled"><i class="fa fa-apple" style="margin-left: 6px;" aria-hidden="true"></i>iOS<h3>Coming Soon</h3></button>
@@ -459,6 +459,13 @@
   <script>
 
 	function downloadNow(){
+		document.getElementById('link').click()
+		dataLayer.push({
+			event:"DownloadNow_Both"
+		})
+	}
+
+	function downloadNowMobile(){
 		document.getElementById('link').click()
 		dataLayer.push({
 			event:"download_cta"
