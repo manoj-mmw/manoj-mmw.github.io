@@ -2,9 +2,12 @@ jQuery(document).ready(function ($) {
   //open popup
   $(".cd-popup-trigger").on("click", function (event) {
     event.preventDefault();
+	console.log(dataLayer)
 	dataLayer.push({
 		event: "Submit_Button_Non-Mobile"
 	})
+
+	console.log("herere")
 
     $(".cd-popup").addClass("is-visible");
 
