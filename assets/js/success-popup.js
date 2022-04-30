@@ -13,7 +13,7 @@ jQuery(document).ready(function ($) {
 
 	if(mobileNumber.match(/^(\+\d{1,3}[- ]?)?\d{10}$/) && ! (mobileNumber.match(/0{5,}/)) ) {
 
-		const apiUrl = 'https://2929-3-111-140-16.ngrok.io/auth/v1/auth/optInForInvitation/';
+		const apiUrl = 'https://mmw-auth-prod-75xfeha6ha-el.a.run.app/auth/v1/auth/optInForInvitation/';
 		const body = {
 			mobileNumber
 		}
