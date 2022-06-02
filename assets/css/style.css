@@ -2203,3 +2203,11 @@ Main components
     width: 100%;
   }
 }
+
+.ios-download-now {
+	color: #32bc41;
+}
+
+.ios-download-now:hover {
+	color: #32bc41;
+}
