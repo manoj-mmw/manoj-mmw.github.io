@@ -35,14 +35,14 @@
   <link rel="stylesheet" href="assets/css/animated.css" />
 
 	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-226561027-1">
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-223936354-1">
 	</script>
 	<script>
-	window.dataLayer = window.dataLayer || [];
-	function gtag(){dataLayer.push(arguments);}
-	gtag('js', new Date());
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
 
-	gtag('config', 'UA-226561027-1');
+		gtag('config', 'UA-223936354-1');
 	</script>
 
 	<!-- Google Tag Manager -->
@@ -251,7 +251,7 @@
                   <button class="app-btn cd-popup-trigger" onclick="downloadNowMobile()"><i class="fa fa-android" style="margin-left: 6px;" aria-hidden="true"></i>Android<h3>Click to Download</h3></button>
                 </div>
                 <div class="col-6">
-                  <button class="app-btn-disabled"><i class="fa fa-apple" style="margin-left: 6px;" aria-hidden="true"></i>iOS<h3>Coming Soon</h3></button>
+                  <button class="app-btn" onclick="downloadNowIos()"><i class="fa fa-apple" style="margin-left: 6px;" aria-hidden="true"></i>iOS<h3>Click to Download</h3></button>
                 </div>
               </div>
          
@@ -420,7 +420,7 @@
                     <img alt="" src="assets/images/appstore-apple.svg"></a></div> -->
                 <div class="ios-comingsoon">
 
-                  <h3>Coming Soon</h3>
+                  <a href="https://apps.apple.com/in/app/makemywin/id1610192574" target="_blank" class="ios-download-now"><h3>Download Now</h3></a>
                 </div>
               </div>
             </div>
@@ -496,6 +496,14 @@
 		dataLayer.push({
 			event:"download_cta"
 		})
+	}
+
+	function downloadNowIos(){
+		dataLayer.push({
+			event:"download_cta"
+		})
+
+		window.open('https://apps.apple.com/in/app/makemywin/id1610192574', '_blank').focus();
 	}
 
 	function downloadNowForAndroidMobile() {
